@@ -2,7 +2,7 @@
 
 Code and notes for titanic competition on kaggle
 
-done on 11/2017
+done in 11/2017
 
 # Kaggle- House Prediction
 
