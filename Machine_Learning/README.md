@@ -9,7 +9,7 @@
 
   Spam-email problem
 
-  Data: y ~ Bernoulli      x|y ~ Poisson
+  Data: y ~ Bernoulli            x|y ~ Poisson
 
   Prior: lambda ~ Gamma
 
