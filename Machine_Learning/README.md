@@ -29,4 +29,4 @@
 # hw4
 
 - Markov Chains
-- Nonegative atrix factorization (using divengence penalty)
+- Nonegative matrix factorization (using divengence penalty)
